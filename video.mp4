@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Менің видеоларым</title>
+<style>
+body { font-family: Arial; text-align: center; background: #f0f0f0; padding: 30px; }
+video { max-width: 100%; margin: 20px 0; }
+</style>
+</head>
+<body>
+<h1>Менің видеоларым</h1>
+
+<!-- Жай видео файл -->
+<video controls>
+  <source src="video.mp4" type="video/mp4">
+  Сіздің браузеріңіз видео ойнатуды қолдамайды.
+</video>
+
+</body>
+</html>
